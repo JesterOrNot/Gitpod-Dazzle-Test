@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full
+FROM gitpod/dazzle-wsfull-build
 
 USER gitpod
 
